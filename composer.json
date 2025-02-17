@@ -1,5 +1,5 @@
 {
-    "name": "newsaktuell/elasticsearch-dsl",
+    "name": "dpapala/elasticsearch-dsl",
     "description": "Elasticsearch DSL library",
     "type": "library",
     "homepage": "http://ongr.io",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^8.2",
         "symfony/serializer": "^3.0|^4.0",
         "paragonie/random_compat": "*"
     },
